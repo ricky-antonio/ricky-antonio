@@ -19,17 +19,4 @@ I build fast, modern web products across the full stack — LLM-powered tools, r
 
 ---
 
-| Project | Description |
-|---|---|
-| [**Citadel**](https://citadel.rickycodes.dev) | Real-time city intelligence — 8 live APIs, streaming AI assistant, orbital map UI |
-| [**Basekit**](https://github.com/ricky-antonio/basekit) | Production SaaS starter — auth, Stripe billing, teams, admin dashboard, transactional email |
-| [**Lodestar**](https://lodestar-amber.vercel.app) | AI task manager — kanban, smart prioritization, keyboard-first workflow |
-| [**Bloom**](https://bloom.rickycodes.dev) | AI concept explorer — D3 force-directed graph + streaming Claude AI |
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricky-antonio&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=6b7280)](https://github.com/ricky-antonio)
-
 </div>
