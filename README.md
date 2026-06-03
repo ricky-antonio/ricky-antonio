@@ -12,7 +12,7 @@
 
 I build fast, accessible, well-designed web apps with React, TypeScript, and Next.js. A few of them integrate AI in ways I think are genuinely useful: a real-time city dashboard, a concept-mapping tool, an AI-augmented task manager. Each one is live, tested, and built end to end.
 
-Currently at the Waymo project (Transdev), where I also build Python dashboards for autonomous-vehicle operations. Frontend is my focus.
+Currently at Transdev (Waymo project), where I also build Python dashboards for autonomous-vehicle operations. Frontend is my focus.
 
 **Frontend** &nbsp;&nbsp; TypeScript · React · Next.js · Tailwind CSS · shadcn/ui · Three.js · GSAP  
 **Testing** &nbsp;&nbsp; Vitest · React Testing Library · Playwright  
